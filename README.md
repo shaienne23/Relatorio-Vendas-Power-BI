@@ -6,7 +6,7 @@ Este é um relatorio de Vendas, Lucros e descontos de alto desempenho, projetada
 
 ## :closed_book:Componentes Principais
 
-- ** Segmentadores de dados ** 
+- **Segmentadores de dados** 
 
 - **Visuais personalizados**
 
@@ -31,14 +31,16 @@ Fique à vontade para contribuir com melhorias, correções de bugs ou novos rec
 ## :pushpin:Exemplos de vizualizacao do relatorio:
 
 **Sales Report -** Nesta  Primeira Pagina do Relatorio demos enfase a apresentação do relatório de vendas.
-![Criar Insomnia](https://github.com/shaienne23/Sistema-Bancario-Backend/blob/main/Criar%20contas%20Bancarias.PNG)
+
+![Primeira Pagina](https://github.com/shaienne23/Relatorio-Vendas-Power-BI/blob/main/Pagina%201%20-%20Desafio%20Projeto%20Dio.PNG)
 
 **Lucro Detalhado Report -** Nesta Segunda Pagina do Relatorio demos enfase a apresentação do relatório de Lucro Detalhado.
-![Listar Insomnia](https://github.com/shaienne23/Sistema-Bancario-Backend/blob/main/Listar%20contas%20bancarias%20Existentes.PNG)
+
+![Segunda Pagina](https://github.com/shaienne23/Relatorio-Vendas-Power-BI/blob/main/Pagina%202%20-%20Desafio%20Projeto%20Dio.PNG)
 
 **Report de descontos Detalhados -** Nesta  Terceira Pagina do Relatorio demos enfase a apresentação do relatório de descontos detalhado.
-![Atualizar Insomnia](https://github.com/shaienne23/Sistema-Bancario-Backend/blob/main/Alterar%20conta%20Bancaria.PNG)
 
+![Terceira  Pagina](https://github.com/shaienne23/Relatorio-Vendas-Power-BI/blob/main/Pagina%203%20-%20Desafio%20Projeto%20Dio.PNG)
 
 ## :pushpin:Observações:
 
@@ -46,7 +48,7 @@ Fique à vontade para contribuir com melhorias, correções de bugs ou novos rec
 
 **#** A apresentação do gráfico hierárquico de média de lucro no Power BI Service não é viável devido à ausência da licença necessária para este visual específico.
 
-**#**Como solução alternativa, procedi com substituições para este campo de dados.
+**#** Como solução alternativa, procedi com substituições para este campo de dados.
 
 <h2>✒️ Autora</h2>
 <strong>Shaienne Oliveira</st
